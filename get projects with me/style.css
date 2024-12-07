@@ -1,0 +1,8 @@
+/*About section*/
+.about{
+    background-color: blueviolet;
+    border-radius: 0.5rem;
+}
+.card{
+    border-bottom: 8px solid palevioletred;
+}
